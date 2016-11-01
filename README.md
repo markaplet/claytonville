@@ -14,5 +14,5 @@ Currently I would guess that ClaytonVille is about 50% complete. Because this wa
 Assuming people find this pack interesting and useful, I invite the community to provide feedback or make a pull request with their changes. 
 
 ## Credits
-* [http://www.planetminecraft.com/project/highbridreds-plot/](http://www.planetminecraft.com/project/highbridreds-plot/ "HighBridRed's Japenese Dragon Landscape ")
-* [http://www.planetminecraft.com/project/block-showcase-1965258/](http://www.planetminecraft.com/project/block-showcase-1965258/ "Block Showcase and Texture Pack Viewer")
+* [HighBridRed's Japenese Dragon Landscape](http://www.planetminecraft.com/project/highbridreds-plot/)
+* [Block Showcase and Texture Pack Viewer](http://www.planetminecraft.com/project/block-showcase-1965258/)
