@@ -1,0 +1,28 @@
+﻿/=====================================
+/  How to install
+/  ClaytonVille v1.0
+/=====================================
+
+Step 1:
+/=====================================
+Locate and open your Mincraft Resource Pack folder
+For Windows this is typically located here:
+C:\Users\User\AppData\Roaming\.minecraft\resourcepacks
+On Mac, this is located ~/Library/minecraft/resourcepacks
+
+Step 2:
+/=====================================
+Copy the "ClaytonVille v1.0-MC v1.10.zip" to your resource pack folder.
+The downloaded pack does not need to be unziped first.
+
+Step 3:
+/=====================================
+Start your Minecraft launcher then click the "Options" button.
+Then click the "Resource Pack" button.
+Select ClaytonVille from the list on the right and click the arrow icon that appears
+over the pack icon. The pack will be moved to the left panel and should
+appear at the top of the list.
+
+/=====================================
+
+If you expierence any issues please let me know
