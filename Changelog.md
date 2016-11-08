@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## Version 1.2
+Adds and updates
+* Snow covered dirt
+* Sand 
+* Red Sand
+* Quartz blocks
+* Magma Block w/Animation
+* Purpur Block
+
 ## Version 1.1
 Adds ~50 new blocks
 
@@ -18,7 +27,7 @@ Adds ~50 new blocks
 * Bookshelf
 
 ## Version 1.0
-Initail release of about ~110 blocks
+Initial release of about ~110 blocks
 
 * Wool
 * Woods

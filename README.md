@@ -1,4 +1,4 @@
-![Block Showcase](https://github.com/markaplet/claytonville/blob/master/screenshots/2016-10-31_21.55.54.png)
+![Block Showcase](https://github.com/markaplet/claytonville/blob/master/screenshots/hero.png)
 
 # ClaytonVille
 This pack was created as a custom resource pack for a creative builders and map makers, specifically mini game creators. ClaytonVille takes the vibrant color and purity of hardened clay and extends the look into many other blocks creating a wide gamut of colors to choose from for your custom maps. 
@@ -21,3 +21,8 @@ Assuming people find this pack interesting and useful, I invite the community to
 ## Credits
 * [HighBridRed's Japenese Dragon Landscape](http://www.planetminecraft.com/project/highbridreds-plot/)
 * [Block Showcase and Texture Pack Viewer](http://www.planetminecraft.com/project/block-showcase-1965258/)
+
+## Gallery
+![Parkour Map by minecraft-pg5](https://github.com/markaplet/claytonville/blob/master/screenshots/compare-01.jpg)
+![Parkour Map by minecraft-pg5](https://github.com/markaplet/claytonville/blob/master/screenshots/compare-02.jpg)
+![Japenese Dragon by highbridred](https://github.com/markaplet/claytonville/blob/master/screenshots/compare-01.jpg)
