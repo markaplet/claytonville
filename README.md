@@ -1,4 +1,4 @@
-![Block Showcase](https://github.com/markaplet/claytonville/blob/master/screenshots/hero.png)
+![Block Showcase](https://github.com/markaplet/claytonville/blob/master/screenshots/hero.jpg)
 
 # ClaytonVille
 This pack was created as a custom resource pack for a creative builders and map makers, specifically mini game creators. ClaytonVille takes the vibrant color and purity of hardened clay and extends the look into many other blocks creating a wide gamut of colors to choose from for your custom maps. 
