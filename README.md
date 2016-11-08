@@ -1,3 +1,5 @@
+[Download Claytonville 1.2 for Minecraft 1.10](http://www.mediafire.com/file/w8dta79hvjkjeum/Claytonville_v1.2_MC_v1.10.zip)
+
 ![Block Showcase](https://github.com/markaplet/claytonville/blob/master/screenshots/hero.jpg)
 
 # ClaytonVille
