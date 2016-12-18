@@ -1,6 +1,20 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## Version 1.3
+Adds and updates
+* Doors
+* Ice
+* Packed Ice
+* Frosted Ice
+* Water
+* Flowing Water
+* Water Overlay
+* Water Particles
+* Sea Lantern
+* Ladders
+* Item Frames
+
 ## Version 1.2
 Adds and updates
 * Snow covered dirt

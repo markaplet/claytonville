@@ -1,4 +1,5 @@
-[Download Claytonville 1.2 for Minecraft 1.10](http://www.mediafire.com/file/w8dta79hvjkjeum/Claytonville_v1.2_MC_v1.10.zip)
+[Download Claytonville 1.3 for Minecraft 1.11](http://www.mediafire.com/file/0yzgx1xbihnsq6b/ClaytonVille_v1.3_MC_v1.11.zip)  
+[Download Claytonville 1.3 for Minecraft 1.10.2](http://www.mediafire.com/file/aw7eywlka664okg/ClaytonVille_v1.3_MC_v1.10.2.zip)
 
 ![Block Showcase](https://github.com/markaplet/claytonville/blob/master/screenshots/hero.jpg)
 
@@ -15,7 +16,7 @@ Some colors like those in wool or in stained clay were modified to create a more
 I created this pack for mini game level development where a broad color pallet existed that was not distracting to players. It is intentionally devoid of strong textures, almost Illustrative or cartoonish is what came to mind. It's niche is certainly more useful to creatives that wish for a cleaner color pallet, or map makers wanting to build colorful levels while preserving the overall color of minecraft, but not interested in the vanilla textures. This pack **IS NOT** intended to be something you use as your main resource pack, unless you really like that sort of look.
 
 ## Completeness
-Currently I would estimate that ClaytonVille is about 70% complete. Because this was created initially as a resource pack for my personal mini game, some blocks are not color accurate, I took creative lisence to saturate and tweek some colors (especially wool, and clay). A future version may be more color acurate but that depends on the kind of feedback I get. Also, not every block is converted at this point. I plan to fully convert all the blocks and will release updates as I go. 
+Currently I would estimate that ClaytonVille is about 80% complete. Because this was created initially as a resource pack for my personal mini game, some blocks are not color accurate, I took creative license to saturate and tweak some colors (especially wool, and clay). A future version may be more color accurate but that depends on the kind of feedback I get. Also, not every block is converted at this point. I plan to fully convert all the blocks and will release updates as I go. 
 
 ## Feedback
 Assuming people find this pack interesting and useful, I invite the community to provide feedback or make a pull request with their changes. 
